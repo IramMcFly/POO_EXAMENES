@@ -4,6 +4,7 @@ public class DatosIntegrantes {
 
 	public static void imprimirDatosEquipo() {
 		System.out.println("Equipo: Donut");
+		System.out.println("INGENIERIA EN SISTEMAS COMPUTACIONALES");
 		System.out.println("Integrantes: ");
 		System.out.println("1. Iram Josue Ballesteros Morales - 22550289");
 		System.out.println("2. Jonathan David Salazar Vazquez - 22550321");
